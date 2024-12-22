@@ -29,6 +29,8 @@
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]
 
+![alt text](https://github.com/Mars12121/hw-04/blob/main/img/1.png)
+
 ---
 
 ### Задание 2
@@ -42,6 +44,8 @@
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
+
+![alt text](https://github.com/Mars12121/hw-04/blob/main/img/2.png)
 
 ---
 
@@ -57,6 +61,10 @@
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
 - [ ] Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
+
+![alt text](https://github.com/Mars12121/hw-04/blob/main/img/3.png)
+
+![alt text](https://github.com/Mars12121/hw-04/blob/main/img/4.png)
 
 ---
 ## Дополнительные задания со звёздочкой*
